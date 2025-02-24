@@ -22,6 +22,18 @@ Este proyecto utiliza un modelo YOLO (en este caso, **YOLOv5s**) para detectar p
 - **PyTorch** y **torchvision:** Para cargar y utilizar el modelo YOLOv5.
 - **PySerial:** Para la comunicación serial entre Python y Arduino.
 
+## Configuración del Entorno Virtual 🐍
+
+Para mantener aisladas las dependencias del proyecto, se recomienda utilizar un entorno virtual.
+
+### Crear y Activar el Entorno Virtual
+
+1. **Crear el entorno virtual:**
+
+```bash
+python -m venv venv
+```
+
 ---
 
 ## Instalación ⚙️

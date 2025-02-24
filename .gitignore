@@ -1,0 +1,14 @@
+# Archivos y carpetas del entorno virtual
+venv/
+.env/
+
+# Archivos de caché de Python
+__pycache__/
+*.py[cod]
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Caché de Torch Hub (si se crea en el directorio del proyecto)
+.cache/
